@@ -1,4 +1,4 @@
-# SQL Query generator application
+# SQL Query generator application using OPENAI and GeminiAI
 
 ### Create one environment
 
