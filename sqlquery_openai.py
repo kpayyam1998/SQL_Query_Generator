@@ -60,9 +60,9 @@ def generate_explantion(SQL_Query):
     return response
 
 
-st.set_page_config(page_title="SQL Query Generator using OPEN AI", page_icon=":robot_face:")
+st.set_page_config(page_title="SQL Query Generator", page_icon=":robot_face:")
 st.title("")
-st.markdown("""<h1 style='text-align: center;'>SQL query generator</h1>
+st.markdown("""<h1 style='text-align: center;'>SQL query generator using OPEN AI</h1>
                <h3 style='text-align: center;'>I can generate sql queried for you</h3>
                <h4 style='text-align: center;'> With explanations as well</h4>
                <p>This tool is very simple tool that allows you to generate SQL queries based on your prompts.</p>
