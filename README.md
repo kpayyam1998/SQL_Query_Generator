@@ -12,6 +12,10 @@ python3 -m venv env
 ```
 
 ```bash
+create OPENAI_API_KEY="***************************************"
+```
+
+```bash
 # Install requirements.txt
 pip install -r requirements.txt
 
